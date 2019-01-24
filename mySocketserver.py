@@ -2,7 +2,7 @@ import socket
 
 
 def Main():
-    ip = '192.168.0.19'
+    ip = '192.168.0.13'
     port = 5001
 
     mySocket = socket.socket()
