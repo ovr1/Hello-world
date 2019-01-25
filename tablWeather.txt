@@ -1,0 +1,4 @@
+('San Francisco', 46, 50, 0.25, datetime.date(1994, 11, 27))
+('San Francisco', 43, 57, 0.0, datetime.date(1994, 11, 29))
+('Madison', 32, 54, 0.0, datetime.date(1994, 11, 29))
+('Moscow', 28, 35, 0.3499999940395355, datetime.date(1994, 11, 28))
